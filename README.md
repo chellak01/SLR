@@ -20,6 +20,7 @@ The project aims to determine human gestures by creating an coding of these gest
 
 ## Product Architecture
 ### Context Diagram
+![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/196447193-ac2ddb0b-12dc-4789-ac48-c0013bf258a2.jpg)
 
 ### Container Diagram
 ![IMG-20221018-WA0012](https://user-images.githubusercontent.com/94176113/196434811-61647bb2-f0d7-4c5f-a7ea-b95b5207d22a.jpg)
