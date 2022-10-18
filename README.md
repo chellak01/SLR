@@ -20,7 +20,7 @@ signs represent alphabets and numbers recognized using planned technique It
 bridges the gap between physically challenged people to communicate in a
 normal and easy way.
 ### We are here to help you TeamSLR
-(video)SLR
+(Intro video) [SLR](https://www.powtoon.com/s/eKJEpzpwuRC/1/m/s)
 
 ## Technology and Tools
 1.Python
