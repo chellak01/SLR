@@ -37,10 +37,11 @@ segmented and the image it obtained and sent for comparison to the trained model
 
 ## Product Architecture
 ### Context Diagram
-
+![IMG_20221018_222237_782](https://user-images.githubusercontent.com/94176113/196505852-ee093708-85a8-49e1-b5c5-6c2103ef2948.jpg)
 ### Container Diagram
 ![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/196447193-ac2ddb0b-12dc-4789-ac48-c0013bf258a2.jpg)
 ### Component Diagram
+![IMG-20221018-WA0024](https://user-images.githubusercontent.com/94176113/196505683-838e8c91-92ab-4c05-bb2b-7cb9e81e7eef.jpg)
 
 ## DevSecOps
 
