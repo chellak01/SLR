@@ -20,6 +20,9 @@ signs represent alphabets and numbers recognized using planned technique It
 bridges the gap between physically challenged people to communicate in a
 normal and easy way.
 
+## What is SLR
+(video)
+
 ## Technology and Tools
 1.Python
 2.Convolution Neural Network
