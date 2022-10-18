@@ -22,7 +22,8 @@ The project aims to determine human gestures by creating an coding of these gest
 ![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/192843313-6c01b783-7c1b-4ed6-a158-82c7c289b997.jpg)
 
 ## Work Flow
-SLRimages/IMG-20221018-WA0012.jpg
+![IMG-20221018-WA0012](https://user-images.githubusercontent.com/94176113/196434811-61647bb2-f0d7-4c5f-a7ea-b95b5207d22a.jpg)
+
 
 ## Steps to start with
 
