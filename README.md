@@ -22,10 +22,16 @@ The project aims to determine human gestures by creating an coding of these gest
 ![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/192843313-6c01b783-7c1b-4ed6-a158-82c7c289b997.jpg)
 
 ## Work Flow
-![IMG-20220922-WA0002](https://user-images.githubusercontent.com/94176113/192843382-e58398b2-0054-477c-ba93-b1a9256fe3b3.jpg)
+
+## Steps to start with
 
 ## Documentation
 
 ## Team Members
+Bindhu Shree K(ENG19CT0007)
+
+Sanchita J Ellur(ENG19CT0033)
+
+Chella Sai Keerthana(ENG19CT0008)
 
 
