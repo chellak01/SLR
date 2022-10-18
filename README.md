@@ -21,7 +21,7 @@ bridges the gap between physically challenged people to communicate in a
 normal and easy way.
 ### We are here to help you TeamSLR
 (video)
-https://www.powtoon.com/s/eKJEpzpwuRC/1/m/s
+
 ## Technology and Tools
 1.Python
 2.Convolution Neural Network
