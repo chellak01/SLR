@@ -11,25 +11,36 @@ Image processing algorithms along with neural network is used to map the gesture
 Since people with hearing impairment or deaf people cannot talk like normal people so they have to depend on some sort of visual coomunication in most of the time. as like othr language, sign language has also got grammar and vocabulary but uses visual modality for exchanging information. 
 The project aims to determine human gestures by creating an coding of these gestures into machine  language where we mainly focus on Image processing and Template matching for better output generation.
 
+## Problem Statement
+Speech impaired people use hand signs and gestures to communicate. There is
+a need of a system which recognizes the different signs, gestures and conveys
+information. Here we study and develop system by using different algorithm
+to take the image of the human hand for recognition of the gestures where the
+signs represent alphabets and numbers recognized using planned technique It
+bridges the gap between physically challenged people to communicate in a
+normal and easy way.
+
 ## Technology and Tools
 1.Python
-2.MediaPipe
+2.Convolution Neural Network
 3.Tensorflow
 4.Keras
 5.OpenCV
 
+## Proposed Solution
+The system implemented is sign language recognition system using
+convolution neural networks which recognizes various hand gestures by
+capturing video and converting it into frames. Then the hand pixels are
+segmented and the image it obtained and sent for comparison to the trained model.
+
 ## Product Architecture
 ### Context Diagram
-![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/196447193-ac2ddb0b-12dc-4789-ac48-c0013bf258a2.jpg)
 
 ### Container Diagram
-![IMG-20221018-WA0012](https://user-images.githubusercontent.com/94176113/196434811-61647bb2-f0d7-4c5f-a7ea-b95b5207d22a.jpg)
+![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/196447193-ac2ddb0b-12dc-4789-ac48-c0013bf258a2.jpg)
 ### Component Diagram
 
-
-## Steps to start with
-
-## Documentation
+## DevSecOps
 
 ## Team Members
 Bindhu Shree K(ENG19CT0007)
