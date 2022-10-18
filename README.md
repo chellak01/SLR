@@ -19,10 +19,9 @@ to take the image of the human hand for recognition of the gestures where the
 signs represent alphabets and numbers recognized using planned technique It
 bridges the gap between physically challenged people to communicate in a
 normal and easy way.
-
-## What is SLR
+### We are here to help you TeamSLR
 (video)
-
+https://www.powtoon.com/s/eKJEpzpwuRC/1/m/s
 ## Technology and Tools
 1.Python
 2.Convolution Neural Network
