@@ -46,6 +46,7 @@ segmented and the image it obtained and sent for comparison to the trained model
    [Component Diagram](https://user-images.githubusercontent.com/94176113/196505683-838e8c91-92ab-4c05-bb2b-7cb9e81e7eef.jpg)
 
 ## DevSecOps
+![IMG-20221103-WA0007](https://user-images.githubusercontent.com/94176113/199678791-06a4069b-8c6d-4c51-afb0-b273e970d236.jpg)
 
 ## Team Members
 Bindhu Shree K(ENG19CT0007)
