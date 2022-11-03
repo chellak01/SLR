@@ -36,6 +36,9 @@ capturing video and converting it into frames. Then the hand pixels are
 segmented and the image it obtained and sent for comparison to the trained model.
 
 ## Product Architecture
+![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/199676153-81310a3e-851e-4d4d-af99-22f1963a5924.jpg)
+
+## C3 Models
    [Context Diagram](https://user-images.githubusercontent.com/94176113/199675690-5f7721c4-e091-4285-9cef-a71b7f316626.jpg)
 
    [Container Diagram](https://user-images.githubusercontent.com/94176113/199675653-374489f3-be9a-4895-9246-da00dd236433.jpg)
