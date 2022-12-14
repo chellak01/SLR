@@ -35,6 +35,8 @@ convolution neural networks which recognizes various hand gestures by
 capturing video and converting it into frames. Then the hand pixels are
 segmented and the image it obtained and sent for comparison to the trained model.
 
+https://github.com/chellak01/SLR/blob/fc0bea3928da3379559b9fa82530384e3e8965f6/PoC/test.py#L1-L69
+
 ## Product Architecture
 ![IMG-20220922-WA0003](https://user-images.githubusercontent.com/94176113/199676153-81310a3e-851e-4d4d-af99-22f1963a5924.jpg)
 
